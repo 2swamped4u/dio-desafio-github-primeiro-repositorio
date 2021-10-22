@@ -1,4 +1,4 @@
-var x = 0;
+var x = 9;
 var y = 9;
 
 function sum() {
